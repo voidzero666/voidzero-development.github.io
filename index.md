@@ -11,21 +11,21 @@ Make sure to join our community on [Discord](https://discord.gg/b5q3m3bkbd) for 
 
 [-> Youtube](hhtps://www.youtube.com/c/voidzero1337/)
 
-###Changelog:
+### Changelog:
 
-####V29:
+#### V29:
 ```
 - Added antiaim at targets;
 ```
-####V28:
+#### V28:
 ```
 - Added hideshots (might be glitchy)
 ```
-####V27:
+#### V27:
 ```
 - Fixed text rendering when changing resolutions
 ```
-####V26:
+#### V26:
 ```
 - Added event logger
 - Improved resolver
