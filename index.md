@@ -1,4 +1,4 @@
-## Lambdahook releases!
+## Lambdahook releases
 
 ### Current version: V29.1
 
