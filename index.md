@@ -9,7 +9,8 @@ Make sure you use [Vac bypass](https://github.com/danielkrupinski/VAC-Bypass-Loa
 ### Community
 Make sure to join our community on [Discord](https://discord.gg/b5q3m3bkbd) for news and updates!
 
-[-> Youtube](https://www.youtube.com/c/voidzero1337/)
+[-> Youtube: voidzero](https://www.youtube.com/c/voidzero1337/)
+[-> Youtube: emilia-chan](https://www.youtube.com/channel/UCFNwchKZrpjY1hcW8FjUbfQ)
 
 ### Changelog:
 
