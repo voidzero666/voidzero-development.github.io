@@ -2,7 +2,7 @@
 
 ### Current version: V29.1
 
-[Download latest lambdahook!](https://github.com/voidzero-development/voidzero-development.github.io/blob/main/Lambdav29.1.dll)
+[Download latest lambdahook!](https://github.com/voidzero-development/voidzero-development.github.io/raw/main/Lambdav29.1.dll)
 
 Make sure you use [Vac bypass](https://github.com/danielkrupinski/VAC-Bypass-Loader) before you load the cheat!
 
