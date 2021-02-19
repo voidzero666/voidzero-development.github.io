@@ -7,7 +7,7 @@
 Make sure you use [vac bypass](https://github.com/danielkrupinski/VAC-Bypass-Loader) before you load the cheat!
 
 ### Community
-Make sure to join our community on [Discord](https://discord.gg/b5q3m3bkbd) for news and updates!
+Make sure to join our community on [Discord](https://discord.gg/b5q3m3bkbd) for regular news and updates!
 
 [-> Youtube: voidzero](https://www.youtube.com/c/voidzero1337/)
 
