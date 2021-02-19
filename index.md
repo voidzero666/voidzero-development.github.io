@@ -1,8 +1,8 @@
 ## Lambdahook releases
 
-### Current version: V31
+### Current version: V32
 
-[Download latest lambdahook!](https://github.com/voidzero-development/voidzero-development.github.io/raw/main/Lambdav31.dll)
+[Download latest lambdahook!](https://github.com/voidzero-development/voidzero-development.github.io/raw/main/Lambdav32.dll)
 
 Make sure you use [vac bypass](https://github.com/danielkrupinski/VAC-Bypass-Loader) before you load the cheat!
 
@@ -15,7 +15,12 @@ Make sure to join our community on [Discord](https://discord.gg/b5q3m3bkbd) for 
 
 ### Changelog:
 
-#### V30:
+#### V32:
+```
+- Delta sway for legit antiaim (fucks with crap legitaa resolvers)
+```
+
+#### V31:
 ```
 - Antiaim emotion pitch (82.f)
 - Antiaim 'sway' real with static fake (DeltaSway in menu)
