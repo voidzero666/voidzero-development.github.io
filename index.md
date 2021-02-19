@@ -1,8 +1,8 @@
 ## Lambdahook releases
 
-### Current version: V30
+### Current version: V30.1
 
-[Download latest lambdahook!](https://github.com/voidzero-development/voidzero-development.github.io/raw/main/Lambdav30.dll)
+[Download latest lambdahook!](https://github.com/voidzero-development/voidzero-development.github.io/raw/main/Lambdav30.1.dll)
 
 Make sure you use [vac bypass](https://github.com/danielkrupinski/VAC-Bypass-Loader) before you load the cheat!
 
