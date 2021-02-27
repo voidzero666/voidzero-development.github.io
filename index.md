@@ -2,9 +2,7 @@
 
 ### Current version: V32.1
 
-[Download latest lambdahook!](https://github.com/voidzero-development/voidzero-development.github.io/raw/main/Lambdav32.1.dll)
-
-[Download testing version](https://github.com/voidzero-development/voidzero-development.github.io/raw/main/memeware.dll)
+[Download latest lambdahook!](https://github.com/voidzero-development/voidzero-development.github.io/raw/main/Lambdav33.dll)
 
 Make sure you use [vac bypass](https://github.com/danielkrupinski/VAC-Bypass-Loader) before you load the cheat!
 
@@ -16,6 +14,11 @@ Make sure to join our community on [Discord](https://discord.gg/b5q3m3bkbd) for 
 [-> Youtube: emilia-chan](https://www.youtube.com/channel/UCFNwchKZrpjY1hcW8FjUbfQ)
 
 ### Changelog:
+
+#### V33:
+```
+- Animfix doesnt look like parkinsons anymore 
+```
 
 #### V32:
 ```
