@@ -3,6 +3,7 @@
 ### Current version: V32.1
 
 [Download latest lambdahook!](https://github.com/voidzero-development/voidzero-development.github.io/raw/main/Lambdav32.1.dll)
+[Download testing version](https://github.com/voidzero-development/voidzero-development.github.io/raw/main/memeware.dll)
 
 Make sure you use [vac bypass](https://github.com/danielkrupinski/VAC-Bypass-Loader) before you load the cheat!
 
