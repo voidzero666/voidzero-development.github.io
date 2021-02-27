@@ -1,6 +1,6 @@
 ## Lambdahook releases
 
-### Current version: V32.1
+### Current version: V33
 
 [Download latest lambdahook!](https://github.com/voidzero-development/voidzero-development.github.io/raw/main/Lambdav33.dll)
 
