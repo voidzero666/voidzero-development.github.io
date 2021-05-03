@@ -1,6 +1,6 @@
 # Lambdahook.eu repo
 
-Public cheat made for fun by:
+Public free cheat made for fun by:
 
 voidzero-development
 
