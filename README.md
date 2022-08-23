@@ -1,6 +1,6 @@
-#PSA: Anyone claiming to sell lambdahook or a remake of lambdahook is a scam do not buy it! The only place where you can actually find lambdahook is here.
+# PSA: Anyone claiming to sell lambdahook or a remake of lambdahook is a scam do not buy it! The only place where you can actually find lambdahook is here.
 
-# Lambdahook.eu repo
+## Lambdahook.eu repo
 
 Public free cheat made for fun by:
 
